@@ -1,0 +1,26 @@
+body{
+    background-color: #1d3557;
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.a-1{
+
+    text-decoration: underline snow;
+    color: snow;
+    border:0px hidden none ;
+   
+}
+
+li{
+    list-style: none;
+    padding: 10px;
+}
+
+#img-1{
+    border: 5px double snow;
+}
+    

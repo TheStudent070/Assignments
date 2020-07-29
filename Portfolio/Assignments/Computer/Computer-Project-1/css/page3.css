@@ -1,0 +1,48 @@
+
+    .btn--outline:hover {
+        background-color: transparent;
+        border: 2px solid black;
+        color:white;
+       
+        
+    }
+    .btn {
+        
+        display: inline-block;
+        padding: 1rem;
+        margin:0 auto;
+        color: white;
+        background-color:black ;
+        border-radius: 1.5rem;
+        font-weight: 700;
+        text-decoration: none;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+    }
+
+    .btn--margin {
+        margin: 20px 0px 10px 60px;
+    }
+    body {
+        background-color:#70A9A1;
+        font-size:larger;
+        border:7px double #1F363D;
+        padding: 15px;
+        color: white;
+        font-style: oblique;
+    }
+    #ending{
+        font-size:1.5rem;
+        text-decoration: underline;
+        color: black;
+    }
+    
+    #ending-2{
+        color: white;
+    }
+    #ending-3 {
+        color: black;
+        text-decoration: underline;
+
+ }
+        

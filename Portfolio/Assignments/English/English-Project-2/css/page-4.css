@@ -1,0 +1,77 @@
+.btn--outline:hover {
+    background-color: transparent;
+    border: 2px solid black;
+    color:white;
+   
+    
+}
+.btn {
+    
+    display: inline-block;
+    padding: 1rem;
+    margin:0 auto;
+    color: white;
+    background-color:white ;
+    border-radius: 1.rem;
+    color:#13505B;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+
+.btn--margin {
+    margin: 20px auto 10px auto;
+    
+}
+body{
+font-style: oblique;
+border:5px outset white;
+padding: 1rem;
+border-radius:7px;
+background-color:#2D82B7;
+color: white;
+cursor:alias;
+
+
+}
+h2{
+    text-decoration: underline white 2px;
+    
+        font-style: normal;
+        color: black;
+        font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+
+}
+#ending-3 {
+    color: black;
+    text-decoration: underline;
+
+}
+._bold{
+    color: black;
+    text-decoration: underline ;
+
+}
+.bld{
+    color: black;
+}
+#H2{
+    color: white;
+}
+.Img-2{
+    border: 5px double black;
+    padding: none;
+
+}
+
+    
+    
+
+
+
+

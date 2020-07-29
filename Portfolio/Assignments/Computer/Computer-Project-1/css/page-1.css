@@ -1,0 +1,56 @@
+body {
+    font-size:larger;
+    border:7px double #1F363D;
+    padding: 15px;
+    color: whitesmoke;
+    font-style: oblique;
+    background-color:#70A9A1;
+
+}
+.bld{
+    color: black;
+    font-size: larger;
+    text-decoration: none;
+
+
+}
+#img-2{
+    border: 4px double #1F363D;
+}
+h2{
+    text-decoration: underline;
+    color: black;
+}
+
+.btn--outline:hover {
+    background-color: transparent;
+    border: 2px solid black;
+    color:white;
+   
+    
+}
+.btn {
+    
+    display: inline-block;
+    padding: 1rem;
+    margin:0 auto;
+    color: white;
+    background-color:black ;
+    border-radius: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.btn--margin {
+    margin: 20px 0px 10px 100px;
+}
+    
+.btn--outline:hover {
+    background-color: transparent;
+    border: 2px solid black;
+    color:white;
+   
+    
+}

@@ -1,0 +1,28 @@
+h1{
+
+margin: 50px auto;
+width:700px;
+text-decoration: underline;
+
+}
+
+body{
+    color:7D4600;
+    background-color:#F0CF65;
+    border:double #6B0F1A 10px;
+    padding: 10px 50px 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ }   
+ #Google{
+     color: #7D4600;
+     text-decoration: underline;
+     
+ }
+ #Twitter{
+      font-family:sans-serif;
+    
+ }
+ #Twitter:hover {
+    font-family:sans-serif;
+    text-transform:uppercase;
+}

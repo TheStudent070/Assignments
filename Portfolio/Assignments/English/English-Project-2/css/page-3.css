@@ -1,0 +1,55 @@
+
+.btn--outline:hover {
+    background-color: transparent;
+    border: 2px solid black;
+    color:white;
+   
+    
+}
+.btn {
+    
+    display: inline-block;
+    padding: 1rem;
+    margin:0 auto;
+    color: white;
+    background-color:white ;
+    border-radius: 1.rem;
+    color:#13505B;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+
+.btn--margin {
+    margin: 20px auto 10px auto;
+    
+}
+body{
+background-color:#2D82B7;
+font-style: oblique;
+border:5px outset white;
+padding: 1rem;
+border-radius:7px;
+color: white;
+cursor:alias;
+}
+
+h2{
+    text-decoration: underline;
+    
+        font-style: normal;
+        color: black;
+}
+.Image{
+    border:6px double white;
+    padding: 6px;
+    margin: 20px;
+}
+    
+    
+
+
+
+

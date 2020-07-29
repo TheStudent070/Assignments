@@ -1,0 +1,85 @@
+
+body {
+    background-color:#70A9A1;
+    font-size:larger;
+    border:7px double #1F363D;
+    padding: 15px;
+    font-style: oblique;
+    color: whitesmoke;
+}
+#header{
+    text-align: center;
+    text-decoration:underline;
+    font-style: normal;
+}
+#header:hover{
+text-transform: capitalize;
+color:white ;
+
+}
+#Para-1{
+    color:white;
+    font-size: 3rem;
+}
+#img {
+    border: 6px double #1F363D;
+    align-self: center;
+}
+    
+}
+h2{
+    text-decoration:underline;
+    color: black;
+}
+
+#Para-1:hover{
+    color: black;
+    text-transform: lowercase;
+}
+.bold{
+    color: black;
+}
+.heading-2{
+    text-decoration:underline;
+    color: black;
+}
+ 
+.btn--outline:hover {
+    background-color: transparent;
+    border: 2px solid black;
+    color:white;
+   
+    
+}
+.btn {
+    
+    display: inline-block;
+    padding: 1rem;
+    margin:0 auto;
+    color: white;
+    background-color:black ;
+    border-radius: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+
+.btn--margin {
+    margin: 20px 0px 10px 100px;
+
+}
+#device{
+    text-decoration: underline black;
+}
+
+
+
+
+    
+
+
+    
+
+     
