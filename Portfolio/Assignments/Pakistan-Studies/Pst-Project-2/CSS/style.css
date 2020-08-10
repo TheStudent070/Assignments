@@ -1,8 +1,6 @@
 h1{
-
-margin: 50px auto;
-width:700px;
-text-decoration: underline;
+    text-align: center;
+    text-decoration: underline;
 
 }
 
@@ -26,3 +24,34 @@ body{
     font-family:sans-serif;
     text-transform:uppercase;
 }
+
+
+
+.hm-btn{
+    padding: 5px;
+    border: 2px solid #7D4600;
+    background-color:#7D4600;
+    color: #F0CF65;
+    text-decoration: none;
+    border-radius: 6px;
+    text-align: center;
+}
+
+
+.bk-btn{
+    padding: 5px;
+    border: 2px solid #7D4600;
+    background-color:#7D4600;
+    color: #F0CF65;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+li{
+    margin:5px;
+    padding:4px ;
+    list-style: none;
+    display: inline;
+    text-align: justify;
+}
+

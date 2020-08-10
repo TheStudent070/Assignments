@@ -67,3 +67,52 @@ h2{
     padding: 6px;
     margin: 20px auto;
 }
+
+
+
+    
+.hm-btn{
+    padding: 5px;
+    background-color:white;
+    color: #2D82B7;
+    text-decoration: none;
+    border:3px groove black;
+    border-radius: 1.rem;
+ 
+    
+}
+
+
+
+.bk-btn{
+    padding: 5px;
+    border-color: black;
+    background-color:white;
+    text-decoration: none;
+    color:#2D82B7;
+    border-radius: 1.rem;
+    border:3px groove black;
+    
+    
+}
+
+
+li{
+
+list-style: none;
+padding:5px;
+display: inline;
+font-size: 15px;
+
+}
+
+
+
+
+
+    
+
+
+
+
+

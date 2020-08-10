@@ -1,6 +1,7 @@
 body{
     background-color: #2a9d8f;
     text-align: center;
+    
 }
 
 h1 {
@@ -23,4 +24,28 @@ li{
 #img-1{
     border: 5px double snow;
 }
+
+.hm-btn{
+    padding: 5px;
+    border: 2px solid gainsboro;
+    background-color: #00635D;
+    color: #2a9d8f;
+    text-decoration: none;
+    border-radius: 6px;
+    
+}
+
+
+
+.bk-btn{
+    padding: 5px;
+    border: 2px solid gainsboro;
+    background-color: #00635D;
+    color: #2a9d8f;
+    text-decoration: none;
+    border-radius: 6px;
+    
+}
+
+
     

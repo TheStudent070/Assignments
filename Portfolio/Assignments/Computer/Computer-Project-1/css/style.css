@@ -48,6 +48,7 @@ h2{
     background-color: transparent;
     border: 2px solid black;
     color:white;
+    text-align: center;
    
     
 }
@@ -62,6 +63,7 @@ h2{
     font-weight: 700;
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
     
     
 }
@@ -73,6 +75,45 @@ h2{
 #device{
     text-decoration: underline black;
 }
+
+
+
+.hm-btn{
+    padding: 5px;
+    border: 2px solid gainsboro;
+    background-color: gainsboro;
+    color: #2a9d8f;
+    text-decoration: none;
+    border-radius: 6px;
+    
+}
+
+
+
+.bk-btn{
+    padding: 5px;
+    border: 2px solid gainsboro;
+    background-color: gainsboro;
+    color: #2a9d8f;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+
+li{
+    margin:5px;
+    padding:4px ;
+    list-style: none;
+    display: inline;
+    text-align: justify;
+    font-size: 15px;
+
+}
+
+
+
+
+    
 
 
 

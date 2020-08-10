@@ -1,0 +1,60 @@
+body{
+    background-color:#a8dadc;
+    border: 5px double black ;
+    padding:10px ;
+
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration:2px underline;
+
+}
+
+#p_1{
+    text-align: center;
+}
+
+.B-1{
+    color: whitesmoke;
+}
+
+
+.hm-btn{
+    padding: 5px;
+    border: 2px solid gainsboro;
+    background-color: #00635D;
+    color: #a8dadc;
+    text-decoration: none;
+    border-radius: 6px;
+    
+}
+
+
+
+.bk-btn{
+    padding: 5px;
+    border: 2px solid gainsboro;
+    background-color: #00635d;
+    color: #a8dadc;
+    text-decoration: none;
+    border-radius: 6px;
+    
+}
+
+.a-1{
+    list-style: none;
+    padding: 8px;
+    display: inline;
+    
+}
+
+
+
+
+
+    

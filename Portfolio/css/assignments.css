@@ -20,7 +20,17 @@ li{
     padding: 10px;
 }
 
+.hm-btn{
+    display: inline;
+    padding: 5px;
+    border: 2px solid gainsboro;
+    background-color: gainsboro;
+    color: #1d3557;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
 #img-1{
-    border: 5px double snow;
+    border: 5px double snow;    
 }
     

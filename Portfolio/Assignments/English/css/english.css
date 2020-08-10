@@ -23,4 +23,29 @@ li{
 #img-1{
     border: 5px double snow;
 }
+
+
+
+
+.hm-btn{
+    padding: 5px;
+    border: 2px solid white ;
+    background-color:#01172F;
+    color: #0096c7;
+    text-decoration: none;
+    border-radius: 6px;
     
+}
+
+
+
+.bk-btn{
+    padding: 5px;
+    border: 2px solid white;
+    background-color:#01172F;
+    color: #0096c7;
+    text-decoration: none;
+    border-radius: 6px;
+    
+}
+
