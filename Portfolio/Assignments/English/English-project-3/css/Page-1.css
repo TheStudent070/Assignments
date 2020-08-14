@@ -6,6 +6,7 @@
     color: #BDA779;
     text-decoration: none;
     border-radius: 6px;
+
     
 }
 
@@ -75,6 +76,10 @@ h2{
 #a-2{
     text-decoration: underline;
     color: white;
+}
+
+img{
+    border: 5px solid black;
 }
 
     
