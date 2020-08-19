@@ -1,0 +1,72 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:white;
+    margin: 0%;
+    padding:0%;
+    
+}
+
+.header{
+    background-color:#3777FF;
+    color:white;
+}
+
+.header__heading {
+    display: inline;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: white;
+}
+
+.nav{
+   
+}
+
+.nav ul li {
+    list-style-type: none;
+    float: right;
+    padding: .3rem;
+}
+
+.nav a {
+    text-decoration: none;
+
+}
+
+.quote{
+    margin: 20px 10px 30px 5px;
+    text-align: start;
+    color:black;
+    text-decoration: underline;
+
+}
+
+.nav_link{
+    list-style: none;
+    text-align: right;
+    text-decoration-line: unset;
+    color:lightgray;
+}
+
+    
+}
+
+.project_prev--image{
+  
+    height: 100%;
+    width: 100%;
+
+}
+
+.nav_link:hover{
+    color:black;
+}
+
+.quote:hover{
+    
+    text-transform: capitalize;
+}
+   
+   
+  
